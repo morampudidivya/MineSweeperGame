@@ -1,0 +1,14 @@
+C:\Users\dmorampudi\source\repos\MineSweeperGame\MineSweeperGame\bin\Debug\net8.0\MineSweeperGame.exe
+C:\Users\dmorampudi\source\repos\MineSweeperGame\MineSweeperGame\bin\Debug\net8.0\MineSweeperGame.deps.json
+C:\Users\dmorampudi\source\repos\MineSweeperGame\MineSweeperGame\bin\Debug\net8.0\MineSweeperGame.runtimeconfig.json
+C:\Users\dmorampudi\source\repos\MineSweeperGame\MineSweeperGame\bin\Debug\net8.0\MineSweeperGame.dll
+C:\Users\dmorampudi\source\repos\MineSweeperGame\MineSweeperGame\bin\Debug\net8.0\MineSweeperGame.pdb
+C:\Users\dmorampudi\source\repos\MineSweeperGame\MineSweeperGame\obj\Debug\net8.0\MineSweeperGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmorampudi\source\repos\MineSweeperGame\MineSweeperGame\obj\Debug\net8.0\MineSweeperGame.AssemblyInfoInputs.cache
+C:\Users\dmorampudi\source\repos\MineSweeperGame\MineSweeperGame\obj\Debug\net8.0\MineSweeperGame.AssemblyInfo.cs
+C:\Users\dmorampudi\source\repos\MineSweeperGame\MineSweeperGame\obj\Debug\net8.0\MineSweeperGame.csproj.CoreCompileInputs.cache
+C:\Users\dmorampudi\source\repos\MineSweeperGame\MineSweeperGame\obj\Debug\net8.0\MineSweeperGame.dll
+C:\Users\dmorampudi\source\repos\MineSweeperGame\MineSweeperGame\obj\Debug\net8.0\refint\MineSweeperGame.dll
+C:\Users\dmorampudi\source\repos\MineSweeperGame\MineSweeperGame\obj\Debug\net8.0\MineSweeperGame.pdb
+C:\Users\dmorampudi\source\repos\MineSweeperGame\MineSweeperGame\obj\Debug\net8.0\MineSweeperGame.genruntimeconfig.cache
+C:\Users\dmorampudi\source\repos\MineSweeperGame\MineSweeperGame\obj\Debug\net8.0\ref\MineSweeperGame.dll
